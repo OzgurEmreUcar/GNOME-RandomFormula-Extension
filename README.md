@@ -1,5 +1,5 @@
 # GNOME Random Formula Extension
-
+<img width="1922" height="35" alt="Image" src="https://github.com/user-attachments/assets/c6ce5208-ef4c-42a9-a6cb-5c3cb1a7a17a" />
 A lightweight GNOME Shell extension that displays a **random formula** on your top panel. Clicking on the formula triggers a new one to be fetched via a customizable shell script (`random_formula.sh`).
 
 This is great for students, educators, engineers, or anyone who wants to see a bit of mathematical inspiration while working on their desktop.
