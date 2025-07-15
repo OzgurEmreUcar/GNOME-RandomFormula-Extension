@@ -1,0 +1,8 @@
+{
+    "uuid": "random-formula@ozgur",
+    "name": "Random Formula",
+    "description": "A button to get a random formula",
+    "shell-version": ["42","45", "46"],
+    "version": 1
+  }
+  

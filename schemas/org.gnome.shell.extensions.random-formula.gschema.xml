@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="random-formula">
+  <schema id="org.gnome.shell.extensions.random-formula"
+          path="/org/gnome/shell/extensions/random-formula/">
+
+    <key type="s" name="formula-text">
+      <default>"Click to get formula"</default>
+      <summary>Stores formula text</summary>
+      <description>
+          Stores the last formula generated.
+      </description>
+    </key>
+  </schema>
+</schemalist>
+

@@ -1,0 +1,7 @@
+.formula-button {
+    padding: 4px 8px;
+    border-radius: 5px 0 0 5px;
+    font-weight: bold;
+    color:aqua;
+    font-family: 'Zekton'; /* or any installed font */
+  }
